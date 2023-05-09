@@ -1,6 +1,6 @@
-# Daft.ie Average House prices
+# Daft.ie Average House Prices
 
-## To implement:
+## To Implement:
 
 ### Install the following libraries:
 - pip install beautifulsoup4

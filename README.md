@@ -1,6 +1,7 @@
 # Daft.ie Average House Prices
 
-## To Implement:
+A simple web scraper to get the average house listing price using Daft.ie postings. 
+You can change the search URL at the bottom to your own criteria.
 
 ### Install the following libraries:
 - pip install beautifulsoup4
